@@ -109,7 +109,6 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
   mysql2
-  pg
   rails (= 3.2.1)
   sass-rails (~> 3.2.3)
   sqlite3
